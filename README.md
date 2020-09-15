@@ -20,21 +20,3 @@ Read our [Contribution Guidelines](CONTRIBUTING.md) before you contribute.
 
 <<<<<<< HEAD
 We're on [Gitter](https://gitter.im/TheAlgorithms)! Please join us.
-
-my
-
-第二次
-
-
-
-
-
-
-第三次
-=======
-We're on [Gitter](https://gitter.im/TheAlgorithms)!  Please join us.
-
-## List of Algorithms
-
-See our [directory](DIRECTORY.md).
->>>>>>> cbbc43ba3ae24ad589d94beb65116c07917339ac
